@@ -4,8 +4,7 @@ Trabajo Fin de Máster · Máster en Sistemas Espaciales, Universidad Europea.
 
 Diseño y simulación del sistema de **Guiado, Navegación y Control (GNC)** de un lanzador
 reutilizable, con guiado por **optimización convexa** para el aterrizaje propulsado
-(*Powered Descent Landing*). Se reproduce y valida el caso marciano de Malyuta et al. (2022)
-y se extiende hasta un GNC completo y el aterrizaje 6DOF con actitud.
+(*Powered Descent Landing*). Se reproduce y valida el caso marciano de Malyuta et al. (2022).
 
 ## Contenido
 
@@ -17,18 +16,6 @@ y se extiende hasta un GNC completo y el aterrizaje 6DOF con actitud.
   vuelo óptimo, verificación de restricciones, propagación RK4 y análisis de robustez
   Monte Carlo.
 
-### `extensiones/` — exploración más allá del TFM
-| Notebook | Contenido |
-|---|---|
-| `modulo_A_bucle_cerrado.ipynb` | Guiado en **bucle cerrado** (MPC de horizonte recesivo) |
-| `modulo_B_navegacion.ipynb` | **Navegación** con filtro de Kalman → GNC completo |
-| `modulo_D_scvx.ipynb` | **Convexificación sucesiva (SCvx)** sobre el 3DOF no lineal |
-| `modulo_E_6dof_planar.ipynb` | Aterrizaje **6DOF con actitud** (planar) |
-| `modulo_F_6dof_3d.ipynb` | **6DOF completo en 3D** (cuaterniones + Euler) + aerodinámica |
-| `estudio_direccion_velocidad.ipynb` | Efecto de la dirección de la velocidad inicial |
-
-### `visualizacion/`
-- **`aterrizaje_6dof.html`** — Animación interactiva del aterrizaje 6DOF (abrir en el navegador).
 
 ## Cómo ejecutar
 
