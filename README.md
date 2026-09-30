@@ -16,6 +16,12 @@ reutilizable, con guiado por **optimización convexa** para el aterrizaje propul
   vuelo óptimo, verificación de restricciones, propagación RK4 y análisis de robustez
   Monte Carlo.
 
+### Presentación de la defensa
+- **`presentacion/defensa_animada.html`** — Presentación animada de la defensa del TFM
+  (26 diapositivas). Es autocontenida: se abre en cualquier navegador, sin conexión.
+  Controles: → o clic para avanzar, ← para retroceder, F pantalla completa, H ayuda.
+  **Verla en línea:** https://iseralx.github.io/tfm-gnc-convex/presentacion/defensa_animada.html
+
 
 ## Cómo ejecutar
 
