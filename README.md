@@ -21,6 +21,8 @@ reutilizable, con guiado por **optimización convexa** para el aterrizaje propul
   (26 diapositivas). Es autocontenida: se abre en cualquier navegador, sin conexión.
   Controles: → o clic para avanzar, ← para retroceder, F pantalla completa, H ayuda.
   **Verla en línea:** https://iseralx.github.io/tfm-gnc-convex/presentacion/defensa_animada.html
+- **`presentacion/defensa_preguntas.html`** — Preguntas y respuestas de apoyo (33), con índice clicable.
+  **Verla en línea:** https://iseralx.github.io/tfm-gnc-convex/presentacion/defensa_preguntas.html
 
 
 ## Cómo ejecutar
